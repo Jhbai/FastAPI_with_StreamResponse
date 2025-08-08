@@ -1,4 +1,4 @@
-<img width="1500" height="950" alt="異步 + 串流" src="https://github.com/user-attachments/assets/7bde86e9-e553-44d1-9b09-b038fbf4d5ab" /><img width="1500" height="950" alt="異步 + 串流" src="https://github.com/user-attachments/assets/9ec299ef-fab5-40f5-84df-89438705981f" />
+<img width="1500" height="950" alt="異步 + 串流" src="https://github.com/user-attachments/assets/7bde86e9-e553-44d1-9b09-b038fbf4d5ab" />
 
 FastAPI 異步串流與 StreamResponse 實作範例
 本專案旨在透過一個簡單的範例，深度解析如何在 Python FastAPI 框架中，利用 asyncio 與 StreamResponse 實現異步（Asynchronous）的串流資料傳輸。
